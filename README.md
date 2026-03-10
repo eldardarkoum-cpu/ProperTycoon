@@ -221,7 +221,7 @@
         
         // Animation effect
         clickerEl.style.transform = "scale(0.95)";
-        setTimeout(() => clickerEl.style.transform = "scale(1)", 100);
+        setTimeout(() => clickerEl.style.transfor m = "scale(1)", 100);
     });
 
     // Initialize
